@@ -572,3 +572,4 @@ input[type=range]{width:100%;accent-color:var(--accent)}
   table.t{display:block;overflow-x:auto;max-width:100%}
   .card-h .actions{margin-left:0}
 }
+@media (max-width:900px){.form-sheet{max-width:100%;overflow-x:auto}}
